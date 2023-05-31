@@ -1,0 +1,19 @@
+{
+  "name": "noderetos",
+  "version": "1.0.0",
+  "description": "\"# Node\"",
+  "main": "noderetos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albaCarranza/Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albaCarranza/Node/issues"
+  },
+  "homepage": "https://github.com/albaCarranza/Node#readme"
+}
